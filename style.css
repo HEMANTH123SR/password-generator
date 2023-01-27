@@ -33,6 +33,10 @@ body{
   
 }
 
+p{
+    margin-bottom: 40px;
+}
+
 #generate-password-btn{
     padding: 12px;
     font-weight: 900;
@@ -46,15 +50,16 @@ height: 40px;
 }
 
 hr{
-    margin-top: 5%;
+    margin-top: 10%;
     background-color:white;
     color: white;
+    margin-bottom: 30%;
 }
 
 .btn{
     background-color:
     #273549;
-    margin-top: 10%;
+    margin-top: 20%;
     padding: 10px;
     border: none;
     /* border:1px solid black; */
@@ -63,4 +68,5 @@ height: 40px;
     border-radius: 4px;
     margin-right :100px; 
     color: #68B984;
+    margin-bottom: 200px;
 }
