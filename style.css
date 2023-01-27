@@ -33,9 +33,7 @@ body{
   
 }
 
-p{
-    margin-bottom: 40px;
-}
+
 
 #generate-password-btn{
     padding: 12px;
@@ -59,7 +57,7 @@ hr{
 .btn{
     background-color:
     #273549;
-    margin-top: 20%;
+    margin-top: 50px;
     padding: 10px;
     border: none;
     /* border:1px solid black; */
