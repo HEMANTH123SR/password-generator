@@ -61,11 +61,12 @@ hr{
     padding: 10px;
     border: none;
     /* border:1px solid black; */
-    width: 150px;
+    width: 170px;
     border-radius: 4px;
     margin-right :100px; 
     color: #68B984;
-    
+    font-weight: 300;
+    font-size: large;
 
 }
 
