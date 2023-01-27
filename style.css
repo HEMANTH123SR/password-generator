@@ -42,16 +42,16 @@ body{
     border: none;
     background-color: #68B984;
     color: white;
-    margin-top:10%;
+    margin-top:7%;
     width: 160px;
 height: 40px;
 }
 
 hr{
-    margin-top: 10%;
+    margin-top: 7%;
     background-color:white;
     color: white;
-    
+    margin-bottom: 5%;
 }
 
 .btn{
@@ -61,10 +61,11 @@ hr{
     padding: 10px;
     border: none;
     /* border:1px solid black; */
-width: 160px;
-height: 40px;
+    width: 150px;
     border-radius: 4px;
     margin-right :100px; 
     color: #68B984;
     
+
 }
+
